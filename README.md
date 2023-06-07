@@ -1,2 +1,2 @@
 # MagicMix
-https://magicstation.github.io/magicmix
+https://MagicStation.github.io/MagicMix
